@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+The+Maplepreneur+%F0%9F%8D%81;+Entrepreneur+%7C+Builder+%7C+Creator" alt="Typing SVG" /> -->
-
-<!-- Cool wave banner -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ff88&height=180&section=header&text=&fontSize=0" /> -->
+<!-- Clean Tech Header -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF7139&text=Maplepreneur&height=120&section=header&fontSize=80&fontAlignY=60" alt="Maplepreneur" />
+<br/>
+<a href="https://github.com/maplepreneur">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&height=50&lines=Canadian+Entrepreneur+🍁;Passionate+Builder+👨‍💻;Tech+Creator+🚀;" alt="Typing SVG" />
+</a>
 
 </div>
 
