@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF7139&text=Maplepreneur&height=120&section=header&fontSize=80&fontAlignY=60" alt="Maplepreneur" />
 <br/>
 <a href="https://github.com/maplepreneur">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&height=50&lines=Canadian+Entrepreneur+🍁;Passionate+Builder+👨‍💻;Tech+Creator+🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Canadian+Entrepreneur+%F0%9F%8D%81;Passionate+Builder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Creator+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
